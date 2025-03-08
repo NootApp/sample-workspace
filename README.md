@@ -1,5 +1,7 @@
 # Welcome To Noot
 
+> NOTE: This workspace was originally created using obsidian for workspace management. This was before Noot was able to render markdown at all
+
 You are in the demonstration workspace now, but don't worry, we'll have you speeding through your own files in no time!
 
 ---
